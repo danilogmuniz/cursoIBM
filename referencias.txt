@@ -1,0 +1,24 @@
+﻿Artigos gerais sobre modelagem
+
+DeAngelis, D. L., & Mooij, W. M. (2005). Individual-based modeling of ecological and evolutionary processes. Annu. Rev. Ecol. Evol. Syst., 36, 147-168.
+
+DeLong, J. P., & Gibert, J. P. (2016). Gillespie eco‐evolutionary models (GEM s) reveal the role of heritable trait variation in eco‐evolutionary dynamics. Ecology and evolution, 6(4), 935-945.
+
+Durrett, R., & Levin, S. (1994). The importance of being discrete (and spatial). Theoretical population biology, 46(3), 363-394.
+
+Levins, R. (1966). The strategy of model building in population biology. American scientist, 54(4), 421-431.
+
+
+Alguns artigos que possuem modelos baseados em indivíduos
+
+De Aguiar, M. A. M., Baranger, M., Baptestini, E. M., Kaufman, L., & Bar-Yam, Y. (2009). Global patterns of speciation and diversity. Nature, 460(7253), 384.
+
+Martins, Ayana B., Marcus AM de Aguiar, and Yaneer Bar-Yam. "Evolution and stability of ring species." Proceedings of the National Academy of Sciences (2013): 201217034.
+
+Muniz, D. G., & Machado, G. (2018). Mate sampling influences the intensity of sexual selection and the evolution of costly sexual ornaments. Journal of theoretical biology, 447, 74-83.
+
+Raimundo, R. L., Gibert, J. P., Hembry, D. H., & Guimaraes Jr, P. R. (2014). Conflicting selection in the course of adaptive diversification: the interplay between mutualism and intraspecific competition. The American Naturalist, 183(3), 363-375.
+
+Rotenberry, J. T., Swanger, E., & Zuk, M. (2015). Alternative reproductive tactics arising from a continuous behavioral trait: callers versus satellites in field crickets. The American Naturalist, 185(4), 469-490.
+
+Senior, A. M., Charleston, M. A., Lihoreau, M., Buhl, J., Raubenheimer, D., & Simpson, S. J. (2015). Evolving nutritional strategies in the presence of competition: a geometric agent-based model. PLoS computational biology, 11(3), e1004111.
